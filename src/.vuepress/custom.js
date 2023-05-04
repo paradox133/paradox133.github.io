@@ -11,21 +11,21 @@ let mainConfig = {
   },
 
   repoConfig: {
-    owner: "Yidadaa",
-    repo: "Issue-Blog-With-Github-Action",
+    owner: "Paradox133",
+    repo: "paradox133.github.io",
     pushBranch: "master",
-    email: "yidadaa@qq.com",
+    email: paradox133119@gmail.com",
     filterUsers: ['Yidadaa']
   },
 
-  title: "YiFei Zhang's Blog",
-  description: "在这里了解我的一切，对编程的热爱永不停歇。",
+  title: "Paradox's Blog",
+  description: "Be myself",
   customDomain: "",
   base: "/Issue-Blog-With-Github-Action/",
 
   slogan: {
-    main: "有逻辑的灵魂，",
-    sub: "造就有温度的编码。"
+    main: "",
+    sub: ""
   },
 
   themeConfig: {
@@ -43,22 +43,19 @@ let mainConfig = {
         link: "/Issue-Blog-With-Github-Action/cv.html"
       }
     ],
-    headTitle: ["暮春早夏的月亮", "原是情人的月亮，不比秋冬是诗人的月亮"],
+    headTitle: [""],
     friendLinks: [
       {
         name: "watercow",
         link: "https://github.com/watercow/watercow.github.io/issues"
-      },
-      {
-        name: "ycjgg",
-        link: "https://ycjgg.github.io"
       }
+
     ],
     extraFooters: [
       {
         title: "ABOUT",
-        text: "@ 蜀 ICP 备 19000509 号 - 1",
-        link: "https://beian.miit.gov.cn/"
+        text: "",
+        link: ""
       }
     ],
     pageCount: true
