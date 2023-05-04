@@ -4,7 +4,7 @@
 
 let mainConfig = {
   vssueConfig: {
-    owner: "Yidadaa",
+    owner: "Paradox133",
     repo: "Issue-Blog-With-Github-Action",
     clientId: "2783a4b752f56c0ed912",
     clientSecret: "c8d9116fcade901567ff34aa1fb09216731683a3"
@@ -13,9 +13,9 @@ let mainConfig = {
   repoConfig: {
     owner: "Paradox133",
     repo: "paradox133.github.io",
-    pushBranch: "master",
+    pushBranch: "source",
     email: paradox133119@gmail.com",
-    filterUsers: ['Yidadaa']
+    filterUsers: ['paradox133']
   },
 
   title: "Paradox's Blog",
